@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "scripts": {
+    "start": "node train.js",
+    "dev": "nodemon train.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1691.0"
+  }
+}
